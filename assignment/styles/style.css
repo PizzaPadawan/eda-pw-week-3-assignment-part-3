@@ -1,4 +1,18 @@
 /* give your assignment a fun background color */
 body {
     background-color: olivedrab;
+    font-family:Arial, Helvetica, sans-serif;
+    color:gold;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 5px 5px 12px brown, -5px -5px 12px greenyellow;
+}
+
+h2 {
+    color:darkolivegreen;
+    text-shadow: 3px 3px 10px greenyellow, -3px -3px 10px brown;
+    padding-left: 10px;
+    font-family: monospace;
 }
