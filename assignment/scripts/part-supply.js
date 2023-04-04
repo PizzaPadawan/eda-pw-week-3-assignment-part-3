@@ -86,4 +86,4 @@ while (partsTotal > boxMax ){
     partsTotal = partsTotal - boxMax;
     boxesFilled = boxesFilled + 1;
 }
-console.log(`We filled ${boxesFilled} boxes and have ${partsTotal} left over`);
+console.log(`We filled ${boxesFilled} boxes and have ${partsTotal} parts left over`);
